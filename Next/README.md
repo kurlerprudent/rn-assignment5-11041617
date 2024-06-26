@@ -20,3 +20,12 @@ FlatList:
 Components for rendering large lists of data efficiently. Use FlatList for simple homogeneous lists. Define data (the list of items), renderItem (function to render each item), and keyExtractor (function to uniquely identify each item) for optimal performance.
 
 Image: Displays an image from a local file or remote URL. Use props like source (image path), resizeMode (how to scale the image), and style to
+
+
+# Screenshots
+
+![alt Screenshot 1](./assets/images/homelight.jpg)
+![alt screenshot 2](./assets/images/homedark.jpg)
+![alt screenshot 3](./assets/images/settingslight.jpg)
+![alt screenshot 4](./assets/images/settingsdark.jpg)
+
