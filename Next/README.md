@@ -1,4 +1,7 @@
 # rn-assignment3-11041617
+
+
+This app allows the user to switch from light mode to dark mode and vice versa using the switch feature in the settings screen
 # Brief Description about the use of components
 # Components:
 View:
